@@ -1,7 +1,6 @@
 """
 💰 TeleCoin Pro — Premium FinTech Market Terminal
-Version: 6.4 — 40 markets + Auto-Update
-File: 1.py
+Version: 6.5 — 🧪 TEST UPDATE SUCCESSFile: 1.py
 """
 import tkinter as tk
 from tkinter import font as tkfont, ttk
