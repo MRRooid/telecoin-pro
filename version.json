@@ -1,7 +1,7 @@
 {
-  "version": "6.3",
+  "version": "6.5",
   "release_date": "2026-10-07",
-  "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/telecoin-pro/main/1.py",
-  "changelog": "✅ ۴۰ بازار فعال\n✅ اضافه شدن کامبوج و ونزوئلا\n✅ حذف دوج‌کوین\n✅ بهبود سرعت دریافت قیمت",
+  "download_url": "https://raw.githubusercontent.com/MRRooid/telecoin-pro/main/1.py",
+  "changelog": "🧪 نسخه‌ی تستی\n✅ اضافه شدن سیستم آپدیت خودکار\n✅ ۴۰ بازار فعال\n✅ اضافه شدن کامبوج و ونزوئلا\n✅ حذف دوج‌کوین",
   "min_version": "6.0"
 }
